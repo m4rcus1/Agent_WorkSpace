@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="DELETE">
+        <active>true</active>
+        <description/>
+        <name>Agent_WorkSpace_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:58:53</sys_created_on>
+        <sys_id>78486191478e259063853d8a436d4345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent_WorkSpace_menu_config</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_78486191478e259063853d8a436d4345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:58:53</sys_updated_on>
+    </sys_ux_list_menu_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_list_menu_config_78486191478e259063853d8a436d4345</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config"><sys_ux_list_menu_config action="INSERT_OR_UPDATE"><active>true</active><description/><name>Agent_WorkSpace_menu_config</name><sys_class_name>sys_ux_list_menu_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-06 02:58:53</sys_created_on><sys_id>78486191478e259063853d8a436d4345</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Agent_WorkSpace_menu_config</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_list_menu_config_78486191478e259063853d8a436d4345</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-06 02:58:53</sys_updated_on></sys_ux_list_menu_config></record_update>]]></payload>
+        <payload_hash>1489872926</payload_hash>
+        <record_name>Agent_WorkSpace_menu_config</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:58:53</sys_created_on>
+        <sys_id>30486191478e259063853d8a436d4347</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1875480b3bd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:58:53</sys_updated_on>
+        <type>UX List Menu Configuration</type>
+        <update_guid>78486191858e25903772232713dce646</update_guid>
+        <update_guid_history>78486191858e25903772232713dce646:1489872926</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 08:01:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_menu_config">sys_ux_list_menu_config</sys_db_object>
+        <sys_id>1853b74d0b3d4bd89e41d31a6af90184</sys_id>
+        <sys_metadata>78486191478e259063853d8a436d4345</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent_WorkSpace_menu_config</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_list_menu_config_78486191478e259063853d8a436d4345</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_menu_config_78486191478e259063853d8a436d4345">30486191478e259063853d8a436d4347</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 08:01:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

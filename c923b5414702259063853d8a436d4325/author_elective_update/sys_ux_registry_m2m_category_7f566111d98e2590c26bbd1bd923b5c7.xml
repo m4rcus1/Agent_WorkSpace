@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="">3b5661119a8e2590d1314fbc359f4bc5</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:50:40</sys_created_on>
+        <sys_id>7f566111d98e2590c26bbd1bd923b5c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_7f566111d98e2590c26bbd1bd923b5c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:50:40</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_registry_m2m_category_7f566111d98e2590c26bbd1bd923b5c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="">3b5661119a8e2590d1314fbc359f4bc5</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-06 02:50:40</sys_created_on><sys_id>7f566111d98e2590c26bbd1bd923b5c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_registry_m2m_category_7f566111d98e2590c26bbd1bd923b5c7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-06 02:50:40</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>784427979</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>2b1cbed3477d6d5063853d8a436d43c0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-31 03:57:24</sys_created_on>
+        <sys_id>0517a911478e259063853d8a436d43e4</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18735d01ca00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>c117a911da8e2590de69c00716fde0e4</update_guid>
+        <update_guid_history>c117a911da8e2590de69c00716fde0e4:784427979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:53:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>08901bb79dc84a72806b1baf96349e91</sys_id>
+        <sys_metadata>7f566111d98e2590c26bbd1bd923b5c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_7f566111d98e2590c26bbd1bd923b5c7</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_7f566111d98e2590c26bbd1bd923b5c7">0517a911478e259063853d8a436d43e4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:53:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

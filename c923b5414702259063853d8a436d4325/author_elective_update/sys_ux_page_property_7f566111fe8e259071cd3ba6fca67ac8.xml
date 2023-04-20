@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Agent_WorkSpace">3b5661119a8e2590d1314fbc359f4bc5</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:50:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7f566111fe8e259071cd3ba6fca67ac8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_page_property_7f566111fe8e259071cd3ba6fca67ac8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:50:43</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1007454_agent_0.3b5661119a8e2590d1314fbc359f4bc5.root.globalSearchDataConfigId</unique_name>
+        <value>517cf9895d022590c77e7eaae6be4574</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=7f566111fe8e259071cd3ba6fca67ac8"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_page_property_7f566111fe8e259071cd3ba6fca67ac8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>globalSearchDataConfigId</name><page display_value="Agent_WorkSpace">3b5661119a8e2590d1314fbc359f4bc5</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-06 02:50:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>7f566111fe8e259071cd3ba6fca67ac8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>globalSearchDataConfigId</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_page_property_7f566111fe8e259071cd3ba6fca67ac8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-06 02:50:43</sys_updated_on><type>string</type><unique_name>x_1007454_agent_0.3b5661119a8e2590d1314fbc359f4bc5.root.globalSearchDataConfigId</unique_name><value>517cf9895d022590c77e7eaae6be4574</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=7f566111fe8e259071cd3ba6fca67ac8"/></record_update>]]></payload>
+        <payload_hash>1032330660</payload_hash>
+        <record_name>globalSearchDataConfigId</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:50:43</sys_created_on>
+        <sys_id>5566e111478e259063853d8a436d4324</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18754793a070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:50:43</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>9d66e111608e2590bab2eb7070c67723</update_guid>
+        <update_guid_history>9d66e111608e2590bab2eb7070c67723:1032330660,9966e1118c8e2590b93b2da9e2711422:-532326887</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:53:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>244fdbee3c7e4ddfaa114ebadd8d3341</sys_id>
+        <sys_metadata>7f566111fe8e259071cd3ba6fca67ac8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_7f566111fe8e259071cd3ba6fca67ac8</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_7f566111fe8e259071cd3ba6fca67ac8">5566e111478e259063853d8a436d4324</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:53:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_m2m_filter_category">
+    <sys_sg_filter_m2m_filter_category action="INSERT_OR_UPDATE">
+        <filter display_value="New filter">775a50884716ed9063853d8a436d4396</filter>
+        <filter_category display_value="New filter category">bf5a5c884716ed9063853d8a436d432b</filter_category>
+        <order/>
+        <sys_class_name>sys_sg_filter_m2m_filter_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 10:21:52</sys_created_on>
+        <sys_id>fb5a5c884716ed9063853d8a436d432e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_sg_filter_m2m_filter_category_fb5a5c884716ed9063853d8a436d432e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 10:21:52</sys_updated_on>
+    </sys_sg_filter_m2m_filter_category>
+</record_update>

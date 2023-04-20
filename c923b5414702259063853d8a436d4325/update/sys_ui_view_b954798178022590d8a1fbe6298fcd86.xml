@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Workspace-Agent_WorkSpace-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 09:13:13</sys_created_on>
+        <sys_id>b954798178022590d8a1fbe6298fcd86</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workspace Agent_WorkSpace 0</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ui_view_b954798178022590d8a1fbe6298fcd86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-05 09:13:19</sys_updated_on>
+        <title>Workspace Agent_WorkSpace 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="list_test">c983b3e14746a59063853d8a436d4323</macroponent>
+        <name>list_nav/NODE__isHidden</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {any} params.imports
+  */
+function evaluateProperty({api}) {
+	return !api.state.listMenuOpen;
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 07:45:47</sys_created_on>
+        <sys_id>1183b3e14746a59063853d8a436d4326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list_nav/NODE__isHidden</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_client_script_1183b3e14746a59063853d8a436d4326</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 07:45:47</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_client_script_1183b3e14746a59063853d8a436d4326</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="list_test"&gt;c983b3e14746a59063853d8a436d4323&lt;/macroponent&gt;&lt;name&gt;list_nav/NODE__isHidden&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {any} params.imports
+  */
+function evaluateProperty({api}) {
+	return !api.state.listMenuOpen;
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-07 07:45:47&lt;/sys_created_on&gt;&lt;sys_id&gt;1183b3e14746a59063853d8a436d4326&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;list_nav/NODE__isHidden&lt;/sys_name&gt;&lt;sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0"&gt;c923b5414702259063853d8a436d4325&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Agent_WorkSpace"&gt;c923b5414702259063853d8a436d4325&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_1183b3e14746a59063853d8a436d4326&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-07 07:45:47&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1944780156</payload_hash>
+        <record_name>list_nav/NODE__isHidden</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 08:00:12</sys_created_on>
+        <sys_id>2cd677a54746a59063853d8a436d4335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1875abaed450000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 08:00:12</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>14d677a54446a5904f084fc0f13f5135</update_guid>
+        <update_guid_history>14d677a54446a5904f084fc0f13f5135:-1944780156,9d837be1bc46a59080d21a1e1fdab65e:68543897,91837be1c546a5903250655005950452:-1944780156,91837be1e146a590e5f71e0f7b6c7245:68543897,d183b3e1a246a5906c3a645c762ad528:1821954839</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 08:05:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>93189610edcc497791f0c89feba772d1</sys_id>
+        <sys_metadata>1183b3e14746a59063853d8a436d4326</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list_nav/NODE__isHidden</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_1183b3e14746a59063853d8a436d4326</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_1183b3e14746a59063853d8a436d4326">2cd677a54746a59063853d8a436d4335</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 08:05:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

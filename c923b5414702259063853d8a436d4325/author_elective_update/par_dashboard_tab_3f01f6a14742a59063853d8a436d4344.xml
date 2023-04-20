@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <dashboard display_value="test">7f01f6a14742a59063853d8a436d433a</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 02:55:25</sys_created_on>
+        <sys_id>3f01f6a14742a59063853d8a436d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>par_dashboard_tab_3f01f6a14742a59063853d8a436d4344</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 02:55:25</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>par_dashboard_tab_3f01f6a14742a59063853d8a436d4344</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><dashboard display_value="test">7f01f6a14742a59063853d8a436d433a</dashboard><name>Tab</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-07 02:55:25</sys_created_on><sys_id>3f01f6a14742a59063853d8a436d4344</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>par_dashboard_tab_3f01f6a14742a59063853d8a436d4344</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-07 02:55:25</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>-694517074</payload_hash>
+        <record_name>Tab</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 02:55:25</sys_created_on>
+        <sys_id>b301f6a14742a59063853d8a436d4353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18759a3e2b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 02:55:25</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>fb01f6a11842a59027b09a49054b7e52</update_guid>
+        <update_guid_history>fb01f6a11842a59027b09a49054b7e52:-694517074</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tab">1874fa654742a59063853d8a436d4393</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 03:10:12</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>171b151e7fb9421dad63f15aa18a1119</sys_id>
+        <sys_metadata>3f01f6a14742a59063853d8a436d4344</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_3f01f6a14742a59063853d8a436d4344</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_3f01f6a14742a59063853d8a436d4344">b301f6a14742a59063853d8a436d4353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 03:10:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

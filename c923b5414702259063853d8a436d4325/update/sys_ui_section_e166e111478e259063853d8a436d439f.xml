@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Portal Settings" section_id="e166e111478e259063853d8a436d439f" sys_domain="global" table="sc_cat_item" version="3" view="Workspace-x_1007454_agent_0-1">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2d66e111478e259063853d8a436d43b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_method</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2166e111478e259063853d8a436d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_cart_v2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2566e111478e259063853d8a436d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_quantity_v2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2966e111478e259063853d8a436d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>show_price_v2</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2d66e111478e259063853d8a436d43ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_delivery_time_v2</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2166e111478e259063853d8a436d43bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2566e111478e259063853d8a436d43bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_wishlist_v2</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2966e111478e259063853d8a436d43bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_attachment_v2</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2d66e111478e259063853d8a436d43bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mandatory_attachment</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2166e111478e259063853d8a436d43bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2566e111478e259063853d8a436d43bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d439f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Portal Settings</caption>
+            <header>false</header>
+            <name>sc_cat_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e166e111478e259063853d8a436d439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cat_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+            <sys_update_name>sys_ui_section_e166e111478e259063853d8a436d439f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace-x 1007454 agent 0-1" name="Workspace-x_1007454_agent_0-1">33566111b48e2590be0b6a1afe0458c8</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

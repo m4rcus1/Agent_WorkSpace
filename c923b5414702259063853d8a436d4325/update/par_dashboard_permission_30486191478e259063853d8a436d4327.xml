@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Agent_WorkSpace">7b382191ac8e2590a000ee9dd7273b6c</dashboard>
+        <group/>
+        <role display_value="x_1007454_agent_0.user" name="x_1007454_agent_0.user">0123b5414702259063853d8a436d432f</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:58:53</sys_created_on>
+        <sys_id>30486191478e259063853d8a436d4327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7b382191ac8e2590a000ee9dd7273b6c</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>par_dashboard_permission_30486191478e259063853d8a436d4327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:58:53</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

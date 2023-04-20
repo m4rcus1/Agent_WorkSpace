@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" db_object_id="3bff2bed4706a59063853d8a436d43d9" extends="sc_cat_item" label="Item" max_length="40" name="x_1007454_agent_0_item" type="collection"/>
+</database>
