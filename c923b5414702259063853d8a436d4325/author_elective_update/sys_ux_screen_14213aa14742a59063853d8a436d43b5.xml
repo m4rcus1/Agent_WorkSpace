@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent/>
+        <macroponent_config>{ }</macroponent_config>
+        <name>test default</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="test">50213aa14742a59063853d8a436d43b0</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 02:55:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>14213aa14742a59063853d8a436d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_screen_14213aa14742a59063853d8a436d43b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 02:55:44</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=14213aa14742a59063853d8a436d43b5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_screen_14213aa14742a59063853d8a436d43b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><event_mappings/><macroponent/><macroponent_config>{ }</macroponent_config><name>test default</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="test">50213aa14742a59063853d8a436d43b0</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-07 02:55:44</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>14213aa14742a59063853d8a436d43b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>test default</sys_name><sys_overrides/><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_screen_14213aa14742a59063853d8a436d43b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-07 02:55:44</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=14213aa14742a59063853d8a436d43b5"/></record_update>]]></payload>
+        <payload_hash>1917644260</payload_hash>
+        <record_name>test default</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 03:09:25</sys_created_on>
+        <sys_id>8d443a654742a59063853d8a436d434b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18759b0b5fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 03:09:25</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>9c213aa16042a590b065a4eeab9b17b7</update_guid>
+        <update_guid_history>9c213aa16042a590b065a4eeab9b17b7:-263516935,9c213aa16042a590b065a4eeab9b17b7:-263516935</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-07 03:09:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>163de6ebb44646238cf6ae9363044479</sys_id>
+        <sys_metadata>14213aa14742a59063853d8a436d43b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test default</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_14213aa14742a59063853d8a436d43b5</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_14213aa14742a59063853d8a436d43b5">8d443a654742a59063853d8a436d434b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-07 03:09:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

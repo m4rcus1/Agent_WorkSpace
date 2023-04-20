@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>test</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>New data item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="cmdb_ci">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 10:41:57</sys_created_on>
+        <sys_id>02fed8cc4716ed9063853d8a436d4340</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>New data item</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_sg_data_item_02fed8cc4716ed9063853d8a436d4340</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 10:46:10</sys_updated_on>
+        <table>cmdb_ci</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=02fed8cc4716ed9063853d8a436d4340"/>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>AW Inbox</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:44:26</sys_created_on>
+        <sys_id>e3c4b1e347ca6d9063853d8a436d4323</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AW Inbox</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_screen_type_e3c4b1e347ca6d9063853d8a436d4323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 03:51:11</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=e3c4b1e347ca6d9063853d8a436d4323"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_screen_type_e3c4b1e347ca6d9063853d8a436d4323</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>AW Inbox</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-13 03:44:26</sys_created_on><sys_id>e3c4b1e347ca6d9063853d8a436d4323</sys_id><sys_mod_count>1</sys_mod_count><sys_name>AW Inbox</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_screen_type_e3c4b1e347ca6d9063853d8a436d4323</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-13 03:51:11</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=e3c4b1e347ca6d9063853d8a436d4323"/></record_update>]]></payload>
+        <payload_hash>1566587015</payload_hash>
+        <record_name>AW Inbox</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:51:11</sys_created_on>
+        <sys_id>1f57716747ca6d9063853d8a436d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18778bd19c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 03:51:11</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>5757716792ca6d9098f6ed018f3fa1e0</update_guid>
+        <update_guid_history>5757716792ca6d9098f6ed018f3fa1e0:1566587015,98d5f9278fca6d90d4aab82eebdfab3e:987372897</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 05:14:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>0f5293677bc54fd29c2a062df783f3b1</sys_id>
+        <sys_metadata>e3c4b1e347ca6d9063853d8a436d4323</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AW Inbox</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_e3c4b1e347ca6d9063853d8a436d4323</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_e3c4b1e347ca6d9063853d8a436d4323">1f57716747ca6d9063853d8a436d43e0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 05:14:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="">b15479812a0225901b886e8eb2513784</page>
+        <required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 09:13:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f5547981fc0225901c9a1ee3fdc44a83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_page_property_f5547981fc0225901c9a1ee3fdc44a83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-05 09:13:12</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1007454_agent_0.b15479812a0225901b886e8eb2513784.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_page_property_f5547981fc0225901c9a1ee3fdc44a83</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>L1 Configuration	</description><name>chrome_toolbar</name><page display_value="">b15479812a0225901b886e8eb2513784</page><required_translations>[ {
+  "message" : "Analytics Center",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-05 09:13:12</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>f5547981fc0225901c9a1ee3fdc44a83</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_page_property_f5547981fc0225901c9a1ee3fdc44a83</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-05 09:13:12</sys_updated_on><type>json</type><unique_name>x_1007454_agent_0.b15479812a0225901b886e8eb2513784.root.chrome_toolbar</unique_name><value>[&#13;
+   {&#13;
+      "id":"home",&#13;
+      "label": {&#13;
+              "message": "Home",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"home-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"home"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+   {&#13;
+      "id":"list",&#13;
+      "label": {&#13;
+              "message": "List",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"list-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"list"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   },&#13;
+ {&#13;
+      "id":"analytics-center",&#13;
+      "label": {&#13;
+              "message": "Analytics Center",&#13;
+               "translatable": true&#13;
+        },&#13;
+      "icon":"analytics-center-outline",&#13;
+      "viewportInfo":{&#13;
+         &#13;
+      },&#13;
+      "routeInfo":{&#13;
+         "route":"analytics-center"&#13;
+      },&#13;
+      "group":"top",&#13;
+      "badge":{&#13;
+         &#13;
+      },&#13;
+      "presence":{&#13;
+         &#13;
+      },&#13;
+      "availability":{&#13;
+         &#13;
+      }&#13;
+   }&#13;
+]</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>931988804</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>2b1cbed3477d6d5063853d8a436d43c0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-31 03:57:24</sys_created_on>
+        <sys_id>6f5c79894702259063853d8a436d434e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18735d01ca00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>2f5c79892d02259025e6a08ff10e164e</update_guid>
+        <update_guid_history>2f5c79892d02259025e6a08ff10e164e:931988804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 09:48:15</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>072a4a129e7d4c50853598d2bd19e100</sys_id>
+        <sys_metadata>f5547981fc0225901c9a1ee3fdc44a83</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_f5547981fc0225901c9a1ee3fdc44a83</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_f5547981fc0225901c9a1ee3fdc44a83">6f5c79894702259063853d8a436d434e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-05 09:48:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

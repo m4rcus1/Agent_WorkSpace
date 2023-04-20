@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>7f382191278e259030514613334cdb73</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>agentworkspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:58:50</sys_created_on>
+        <sys_id>b3382191bc8e25900a96ec49552fac6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent_WorkSpace</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_page_registry_b3382191bc8e25900a96ec49552fac6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:58:50</sys_updated_on>
+        <title>Agent_WorkSpace</title>
+    </sys_ux_page_registry>
+</record_update>

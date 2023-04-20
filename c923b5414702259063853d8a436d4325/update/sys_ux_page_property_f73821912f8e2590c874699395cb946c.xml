@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="Agent_WorkSpace">b3382191bc8e25900a96ec49552fac6d</page>
+        <required_translations>[ {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+}, {
+  "message" : "Product",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:58:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>f73821912f8e2590c874699395cb946c</sys_id>
+        <sys_mod_count>55</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_page_property_f73821912f8e2590c874699395cb946c</sys_update_name>
+        <sys_updated_by>quan585</sys_updated_by>
+        <sys_updated_on>2023-04-18 10:42:01</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1007454_agent_0.b3382191bc8e25900a96ec49552fac6d.root.chrome_toolbar</unique_name>
+        <value>[{"id":"home","label":{"translatable":true,"message":"Home"},"icon":"home-outline","viewportInfo":{},"routeInfo":{"route":"home"},"group":"top","order":100,"badge":{},"presence":{},"availability":{"roles":["itil"]}},{"id":"list","label":{"message":"List","translatable":true},"icon":"list-outline","viewportInfo":{},"routeInfo":{"route":"list"},"group":"top","order":200,"badge":{},"presence":{},"availability":{"roles":["itil"]}},{"id":"Product","label":{"message":"Product","translatable":true},"icon":"cellphone-fill","viewportInfo":{},"routeInfo":{"route":"apple-product"},"group":"top","order":600,"badge":{},"presence":{},"availability":{"roles":["itil"]}}]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=f73821912f8e2590c874699395cb946c"/>
+</record_update>

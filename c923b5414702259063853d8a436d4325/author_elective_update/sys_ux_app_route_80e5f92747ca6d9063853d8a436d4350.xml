@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Agent_WorkSpace Config">7f382191278e259030514613334cdb73</app_config>
+        <description/>
+        <extension_point/>
+        <fields>opened</fields>
+        <icon/>
+        <name>AW Inbox</name>
+        <optional_parameters>maxTabLimit,activeRecords,activeParentId</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id>wsInboxSidebar</parent_macroponent_composition_element_id>
+        <route_type>inbox-sidebar</route_type>
+        <screen_type display_value="AW Inbox">e3c4b1e347ca6d9063853d8a436d4323</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 03:45:51</sys_created_on>
+        <sys_id>80e5f92747ca6d9063853d8a436d4350</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AW Inbox</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_app_route_80e5f92747ca6d9063853d8a436d4350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 06:57:43</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="DELETE" query="documentkey=80e5f92747ca6d9063853d8a436d4350"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_app_route_80e5f92747ca6d9063853d8a436d4350</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Agent_WorkSpace Config">7f382191278e259030514613334cdb73</app_config><description/><extension_point/><fields>opened</fields><icon/><name>AW Inbox</name><optional_parameters>maxTabLimit,activeRecords,activeParentId</optional_parameters><order>0</order><parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id>wsInboxSidebar</parent_macroponent_composition_element_id><route_type>inbox-sidebar</route_type><screen_type display_value="AW Inbox">e3c4b1e347ca6d9063853d8a436d4323</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-13 03:45:51</sys_created_on><sys_id>80e5f92747ca6d9063853d8a436d4350</sys_id><sys_mod_count>3</sys_mod_count><sys_name>AW Inbox</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_app_route_80e5f92747ca6d9063853d8a436d4350</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-13 06:57:43</sys_updated_on></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=80e5f92747ca6d9063853d8a436d4350"/></record_update>]]></payload>
+        <payload_hash>1685533122</payload_hash>
+        <record_name>AW Inbox</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 06:57:43</sys_created_on>
+        <sys_id>33022ae3478e6d9063853d8a436d4377</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1877967e1fd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 06:57:43</sys_updated_on>
+        <type>UX App Route</type>
+        <update_guid>7b022ae3708e6d90a7bc47ce5d087576</update_guid>
+        <update_guid_history>7b022ae3708e6d90a7bc47ce5d087576:1685533122,70418eefcfca6d90732b47ee9068dae2:1091998587,1167bd67bdca6d9085abe50b2f6e8409:-1463399817,0926f92745ca6d90bcbdd5528f3c4d55:1895794058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 05:12:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>6e03fcd0563c4112a25ebea3d93ab784</sys_id>
+        <sys_metadata>80e5f92747ca6d9063853d8a436d4350</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AW Inbox</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_80e5f92747ca6d9063853d8a436d4350</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_80e5f92747ca6d9063853d8a436d4350">33022ae3478e6d9063853d8a436d4377</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 05:12:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

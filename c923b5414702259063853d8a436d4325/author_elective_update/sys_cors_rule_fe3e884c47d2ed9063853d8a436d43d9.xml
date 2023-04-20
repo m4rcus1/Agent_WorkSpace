@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cors_rule">
+    <sys_cors_rule action="DELETE">
+        <delete>false</delete>
+        <domain>https://www.w3schools.com</domain>
+        <exposed_headers/>
+        <get>true</get>
+        <max_age>6000</max_age>
+        <name>w3school</name>
+        <patch>false</patch>
+        <post>true</post>
+        <put>false</put>
+        <rest_api>126d91aa53923010fe92ddeeff7b126f</rest_api>
+        <sys_class_name>sys_cors_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 09:30:01</sys_created_on>
+        <sys_id>fe3e884c47d2ed9063853d8a436d43d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>w3school</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_cors_rule_fe3e884c47d2ed9063853d8a436d43d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 09:30:01</sys_updated_on>
+    </sys_cors_rule>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_cors_rule_fe3e884c47d2ed9063853d8a436d43d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_cors_rule"><sys_cors_rule action="INSERT_OR_UPDATE"><delete>false</delete><domain>https://www.w3schools.com</domain><exposed_headers/><get>true</get><max_age>6000</max_age><name>w3school</name><patch>false</patch><post>true</post><put>false</put><rest_api>126d91aa53923010fe92ddeeff7b126f</rest_api><sys_class_name>sys_cors_rule</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-14 09:30:01</sys_created_on><sys_id>fe3e884c47d2ed9063853d8a436d43d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>w3school</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_cors_rule_fe3e884c47d2ed9063853d8a436d43d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-14 09:30:01</sys_updated_on></sys_cors_rule></record_update>]]></payload>
+        <payload_hash>-137431763</payload_hash>
+        <record_name>w3school</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 09:30:01</sys_created_on>
+        <sys_id>108e888847d2ed9063853d8a436d433b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1877f19aa9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 09:30:01</sys_updated_on>
+        <type>CORS Rule</type>
+        <update_guid>188e8888fbd2ed908818fb21f91d2f3a</update_guid>
+        <update_guid_history>188e8888fbd2ed908818fb21f91d2f3a:-137431763</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 09:33:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_cors_rule">sys_cors_rule</sys_db_object>
+        <sys_id>980f72f502c948b3a9efbe8da2e5a681</sys_id>
+        <sys_metadata>fe3e884c47d2ed9063853d8a436d43d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>w3school</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_cors_rule_fe3e884c47d2ed9063853d8a436d43d9</sys_update_name>
+        <sys_update_version display_value="sys_cors_rule_fe3e884c47d2ed9063853d8a436d43d9">108e888847d2ed9063853d8a436d433b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 09:33:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

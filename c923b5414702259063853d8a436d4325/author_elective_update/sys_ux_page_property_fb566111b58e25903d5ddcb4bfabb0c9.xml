@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Location to display the ribbon</description>
+        <name>ribbonLocation</name>
+        <page display_value="">3b5661119a8e2590d1314fbc359f4bc5</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:50:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>fb566111b58e25903d5ddcb4bfabb0c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_page_property_fb566111b58e25903d5ddcb4bfabb0c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:50:39</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1007454_agent_0.3b5661119a8e2590d1314fbc359f4bc5.root.ribbonLocation</unique_name>
+        <value>sidebar</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_page_property_fb566111b58e25903d5ddcb4bfabb0c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Location to display the ribbon</description><name>ribbonLocation</name><page display_value="">3b5661119a8e2590d1314fbc359f4bc5</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-06 02:50:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>fb566111b58e25903d5ddcb4bfabb0c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonLocation</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_page_property_fb566111b58e25903d5ddcb4bfabb0c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-06 02:50:39</sys_updated_on><type>string</type><unique_name>x_1007454_agent_0.3b5661119a8e2590d1314fbc359f4bc5.root.ribbonLocation</unique_name><value>sidebar</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1982052324</payload_hash>
+        <record_name>ribbonLocation</record_name>
+        <reverted_from/>
+        <source>2b1cbed3477d6d5063853d8a436d43c0</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-31 03:57:24</sys_created_on>
+        <sys_id>1d17ed11478e259063853d8a436d430d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18735d01ca00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>d917ed11948e2590a3c77d8c3a91500d</update_guid>
+        <update_guid_history>d917ed11948e2590a3c77d8c3a91500d:-1982052324</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:53:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>803bfaae16c54f1fb74dbbe9abd2d3e9</sys_id>
+        <sys_metadata>fb566111b58e25903d5ddcb4bfabb0c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonLocation</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_fb566111b58e25903d5ddcb4bfabb0c9</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_fb566111b58e25903d5ddcb4bfabb0c9">1d17ed11478e259063853d8a436d430d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:53:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

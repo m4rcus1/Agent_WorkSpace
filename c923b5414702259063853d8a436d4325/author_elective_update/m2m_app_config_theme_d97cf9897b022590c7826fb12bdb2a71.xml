@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-05 09:48:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d97cf9897b022590c7826fb12bdb2a71</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d97cf9897b022590c7826fb12bdb2a71</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-05 09:48:40</sys_updated_on>
+        <theme display_value="Starter Workspace Theme">957cf9894f02259047a973af48ff8263</theme>
+        <ux_app_configuration display_value="">1d7cf989ae022590fbf68a0fe12c3e75</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>m2m_app_config_theme_d97cf9897b022590c7826fb12bdb2a71</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-05 09:48:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d97cf9897b022590c7826fb12bdb2a71</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>m2m_app_config_theme_d97cf9897b022590c7826fb12bdb2a71</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-05 09:48:40</sys_updated_on><theme display_value="Starter Workspace Theme">957cf9894f02259047a973af48ff8263</theme><ux_app_configuration display_value="">1d7cf989ae022590fbf68a0fe12c3e75</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>59823104</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e7257e37478ead9063853d8a436d43c1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-04-14 02:59:45</sys_created_on>
+        <sys_id>e1a6cf7747cead9063853d8a436d43b5</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1877db45ce80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>a1a6cf771dcead900b78a8f6c9b106b5</update_guid>
+        <update_guid_history>a1a6cf771dcead900b78a8f6c9b106b5:59823104</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6da6cf7747cead9063853d8a436d43b6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 04:16:04</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>0825509659cc43b8864d71b347cfad71</sys_id>
+        <sys_metadata>d97cf9897b022590c7826fb12bdb2a71</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_d97cf9897b022590c7826fb12bdb2a71</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_d97cf9897b022590c7826fb12bdb2a71">e1a6cf7747cead9063853d8a436d43b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 04:16:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

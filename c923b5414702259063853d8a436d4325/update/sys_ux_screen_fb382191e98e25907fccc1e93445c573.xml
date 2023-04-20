@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Agent_WorkSpace Config">7f382191278e259030514613334cdb73</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Search results">72e447ee0b621010a8b1c96237673a7e</macroponent>
+        <macroponent_config/>
+        <name>Search Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Search">bb3821916b8e259004745f06f1ca8e71</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-06 02:58:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb382191e98e25907fccc1e93445c573</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_screen_fb382191e98e25907fccc1e93445c573</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-06 02:58:50</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=fb382191e98e25907fccc1e93445c573"/>
+</record_update>

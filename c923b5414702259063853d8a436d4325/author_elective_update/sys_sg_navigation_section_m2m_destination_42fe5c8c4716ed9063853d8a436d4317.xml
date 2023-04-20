@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination">
+    <sys_sg_navigation_section_m2m_destination action="DELETE">
+        <navigation_section display_value="New icon section">8afe5c8c4716ed9063853d8a436d430d</navigation_section>
+        <navigation_section_destination display_value="My CI">0afe5c8c4716ed9063853d8a436d4314</navigation_section_destination>
+        <order/>
+        <sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 10:41:57</sys_created_on>
+        <sys_id>42fe5c8c4716ed9063853d8a436d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_42fe5c8c4716ed9063853d8a436d4317</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 10:41:57</sys_updated_on>
+    </sys_sg_navigation_section_m2m_destination>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_sg_navigation_section_m2m_destination_42fe5c8c4716ed9063853d8a436d4317</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_m2m_destination"><sys_sg_navigation_section_m2m_destination action="INSERT_OR_UPDATE"><navigation_section display_value="New icon section">8afe5c8c4716ed9063853d8a436d430d</navigation_section><navigation_section_destination display_value="My CI">0afe5c8c4716ed9063853d8a436d4314</navigation_section_destination><order/><sys_class_name>sys_sg_navigation_section_m2m_destination</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-14 10:41:57</sys_created_on><sys_id>42fe5c8c4716ed9063853d8a436d4317</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_sg_navigation_section_m2m_destination_42fe5c8c4716ed9063853d8a436d4317</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-14 10:41:57</sys_updated_on></sys_sg_navigation_section_m2m_destination></record_update>]]></payload>
+        <payload_hash>-913341896</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 10:41:57</sys_created_on>
+        <sys_id>46fed8cc4716ed9063853d8a436d433d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1877f5b88960000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 10:41:57</sys_updated_on>
+        <type>Icon section destinations</type>
+        <update_guid>8efed8cc0216ed90c9fd74e8b9b9ae3c</update_guid>
+        <update_guid_history>8efed8cc0216ed90c9fd74e8b9b9ae3c:-913341896</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 10:43:30</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_section_m2m_destination">sys_sg_navigation_section_m2m_destination</sys_db_object>
+        <sys_id>6b566d3580ef4610aa6d6ce8c12bac40</sys_id>
+        <sys_metadata>42fe5c8c4716ed9063853d8a436d4317</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_m2m_destination_42fe5c8c4716ed9063853d8a436d4317</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_m2m_destination_42fe5c8c4716ed9063853d8a436d4317">46fed8cc4716ed9063853d8a436d433d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 10:43:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

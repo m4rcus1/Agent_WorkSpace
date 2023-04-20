@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Process Engine" section_id="6d66e111478e259063853d8a436d4395" sys_domain="global" table="sc_cat_item" version="3" view="Workspace-x_1007454_agent_0-1">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-04 14:00:08</sys_created_on>
+            <sys_id>fa5e48bc87221300bcbf480688cb0b63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-04 14:00:08</sys_updated_on>
+            <text>${gs.getMessage('Select the appropriate process engine for the catalog Item. Only one engine can be selected.')}</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>fa5e48bc87221300bcbf480688cb0b63</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2966e111478e259063853d8a436d4397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Process Engine" display_value="Process Engine" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">6d66e111478e259063853d8a436d4395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flow_designer_flow</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2d66e111478e259063853d8a436d4397</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Process Engine" display_value="Process Engine" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">6d66e111478e259063853d8a436d4395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workflow</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2166e111478e259063853d8a436d4398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Process Engine" display_value="Process Engine" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">6d66e111478e259063853d8a436d4395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_plan</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>2566e111478e259063853d8a436d4398</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Process Engine" display_value="Process Engine" name="sc_cat_item" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">6d66e111478e259063853d8a436d4395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Process Engine</caption>
+            <header>false</header>
+            <name>sc_cat_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6d66e111478e259063853d8a436d4395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sc_cat_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+            <sys_update_name>sys_ui_section_6d66e111478e259063853d8a436d4395</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace-x 1007454 agent 0-1" name="Workspace-x_1007454_agent_0-1">33566111b48e2590be0b6a1afe0458c8</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

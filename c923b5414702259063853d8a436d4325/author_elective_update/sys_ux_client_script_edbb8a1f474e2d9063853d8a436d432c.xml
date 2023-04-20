@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="AW Chat">7e78c21b474e2d9063853d8a436d43e5</macroponent>
+        <name>handleAgentChatTransferred</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[/**
+ * handleAgentChatTransferred client script handler to emit the SCREEN_STATUS_CHANGED
+ *  event to update the tab status. The payload includes the interaction page
+ *  screenKey and indicator to represent the live update.
+ *
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ *
+ */
+function handler({api, event, helpers, imports}) {
+    /** active tab sysId **/
+    const activeParentId = api.context.props.activeParentId;
+
+    /** interaction sysId from the payload **/
+    const sysId = event.payload.interaction.sys_id;
+
+    /** interaction type from the payload **/
+    const type = event.payload.interaction.type;
+
+    /** interaction status from the payload **/
+    const status = event.payload.status;
+
+    /** generated screenKey for the interaction page in context **/
+    const { getInteractionPageScreenKey, getInteractionIconIndicator } = imports["sn_omnich_interact.interactionUtils"]();
+
+    if (activeParentId == sysId && status === 'inactive') {
+        /** Send the screen_status_changed event from the chat shell to update the tab icon **/
+        const screenKey = getInteractionPageScreenKey(sysId);
+        const iconName = getInteractionIconIndicator(type, status);
+
+        api.emit('SCREEN_STATUS_CHANGED', {
+            screenKey,
+            icon: {
+                name: iconName,
+                status: status
+            }
+        });
+
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-12 10:41:55</sys_created_on>
+        <sys_id>edbb8a1f474e2d9063853d8a436d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handleAgentChatTransferred</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_client_script_edbb8a1f474e2d9063853d8a436d432c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-12 10:41:55</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_client_script_edbb8a1f474e2d9063853d8a436d432c</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="AW Chat"&gt;7e78c21b474e2d9063853d8a436d43e5&lt;/macroponent&gt;&lt;name&gt;handleAgentChatTransferred&lt;/name&gt;&lt;preset/&gt;&lt;required_translations/&gt;&lt;script&gt;&lt;![CDATA[/**
+ * handleAgentChatTransferred client script handler to emit the SCREEN_STATUS_CHANGED
+ *  event to update the tab status. The payload includes the interaction page
+ *  screenKey and indicator to represent the live update.
+ *
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ *
+ */
+function handler({api, event, helpers, imports}) {
+    /** active tab sysId **/
+    const activeParentId = api.context.props.activeParentId;
+
+    /** interaction sysId from the payload **/
+    const sysId = event.payload.interaction.sys_id;
+
+    /** interaction type from the payload **/
+    const type = event.payload.interaction.type;
+
+    /** interaction status from the payload **/
+    const status = event.payload.status;
+
+    /** generated screenKey for the interaction page in context **/
+    const { getInteractionPageScreenKey, getInteractionIconIndicator } = imports["sn_omnich_interact.interactionUtils"]();
+
+    if (activeParentId == sysId &amp;&amp; status === 'inactive') {
+        /** Send the screen_status_changed event from the chat shell to update the tab icon **/
+        const screenKey = getInteractionPageScreenKey(sysId);
+        const iconName = getInteractionIconIndicator(type, status);
+
+        api.emit('SCREEN_STATUS_CHANGED', {
+            screenKey,
+            icon: {
+                name: iconName,
+                status: status
+            }
+        });
+
+    }
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-12 10:41:55&lt;/sys_created_on&gt;&lt;sys_id&gt;edbb8a1f474e2d9063853d8a436d432c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;handleAgentChatTransferred&lt;/sys_name&gt;&lt;sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0"&gt;c923b5414702259063853d8a436d4325&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Agent_WorkSpace"&gt;c923b5414702259063853d8a436d4325&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_edbb8a1f474e2d9063853d8a436d432c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-04-12 10:41:55&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;default&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1553261282</payload_hash>
+        <record_name>handleAgentChatTransferred</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 05:56:28</sys_created_on>
+        <sys_id>5e049e27474e6d9063853d8a436d4355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187792fcb760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 05:56:28</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>56049e272c4e6d90cd769cb4c2820555</update_guid>
+        <update_guid_history>56049e272c4e6d90cd769cb4c2820555:1553261282,3ae08aefc5ca6d90f74037a942e71cd9:-630629110,f6b3f5a3dbca6d90fad9e6169048499e:-563218750,d633b1a37aca6d9030ea86e276b9f64c:-420907766,5ecb0e1f044e2d90a7704b456c2cc497:-563218750</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 06:03:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>04193be5bc1d45bf80121875ccdfbba1</sys_id>
+        <sys_metadata>edbb8a1f474e2d9063853d8a436d432c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>handleAgentChatTransferred</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_edbb8a1f474e2d9063853d8a436d432c</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_edbb8a1f474e2d9063853d8a436d432c">5e049e27474e6d9063853d8a436d4355</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 06:03:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

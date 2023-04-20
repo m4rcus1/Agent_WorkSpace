@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="DELETE">
+        <associated_types/>
+        <category>page</category>
+        <component_dependencies/>
+        <composition>[ {
+  "elementId" : "agent_inbox_empty_1",
+  "elementLabel" : "Agent Inbox Empty 1",
+  "propertyValues" : {
+    "moduleId" : {
+      "type" : "JSON_LITERAL",
+      "value" : "module_inbox"
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "299b4786a330c80085c1d0de5bf855bb",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition>
+        <da_relay_models/>
+        <data>[ ]</data>
+        <description/>
+        <dispatched_events/>
+        <ext_controller_dep/>
+        <extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends>
+        <handled_events/>
+        <interactions/>
+        <interfaces/>
+        <internal_event_mappings>{ }</internal_event_mappings>
+        <layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"agent_inbox_empty_1"}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"grid-template-rows":"minmax(400px,auto)","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+    "templateId" : "28bde4cd53431010e6bcddeeff7b12cc",
+    "type" : "grid"
+  },
+  "version" : "3.0.0"
+}</layout>
+        <macroponent_dependencies/>
+        <name>AW Inbox Empty</name>
+        <output_prop_mapping/>
+        <props>[ ]</props>
+        <required_translations>[ ]</required_translations>
+        <root_component/>
+        <root_component_config>{ }</root_component_config>
+        <root_component_definition/>
+        <schema_version>1.0.0</schema_version>
+        <state_properties>[ ]</state_properties>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 08:01:06</sys_created_on>
+        <sys_id>889076a347ce6d9063853d8a436d4316</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AW Inbox Empty</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_update_name>sys_ux_macroponent_889076a347ce6d9063853d8a436d4316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 08:01:08</sys_updated_on>
+    </sys_ux_macroponent>
+    <sys_translated_text action="DELETE" query="documentkey=889076a347ce6d9063853d8a436d4316"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</application>
+        <file_path/>
+        <instance_id>d19cda97db91e5945dc32f17d49619d4</instance_id>
+        <instance_name>dev159004</instance_name>
+        <name>sys_ux_macroponent_889076a347ce6d9063853d8a436d4316</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent"><sys_ux_macroponent action="INSERT_OR_UPDATE"><associated_types/><category>page</category><component_dependencies/><composition>[ {
+  "elementId" : "agent_inbox_empty_1",
+  "elementLabel" : "Agent Inbox Empty 1",
+  "propertyValues" : {
+    "moduleId" : {
+      "type" : "JSON_LITERAL",
+      "value" : "module_inbox"
+    }
+  },
+  "eventMappings" : [ ],
+  "slot" : null,
+  "definition" : {
+    "id" : "299b4786a330c80085c1d0de5bf855bb",
+    "type" : "MACROPONENT"
+  },
+  "overrides" : null,
+  "isHidden" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "isHero" : false,
+  "extensionPoints" : [ ],
+  "isNonDestructive" : false,
+  "items" : [ ],
+  "styles" : { }
+} ]</composition><da_relay_models/><data>[ ]</data><description/><dispatched_events/><ext_controller_dep/><extends display_value="Page Template">19be392623033300f4b4c50947bf65ba</extends><handled_events/><interactions/><interfaces/><internal_event_mappings>{ }</internal_event_mappings><layout>{
+  "default" : {
+    "children" : null,
+    "isInline" : null,
+    "items" : [{"rules":{},"styles":{"grid-area":"main"},"element_id":"agent_inbox_empty_1"}],
+    "root" : null,
+    "rules" : null,
+    "styles" : {"grid-template-rows":"minmax(400px,auto)","grid-template-columns":"1fr","grid-template-areas":"\"main\"","grid-gap":"1rem","height":"100%"},
+    "templateId" : "28bde4cd53431010e6bcddeeff7b12cc",
+    "type" : "grid"
+  },
+  "version" : "3.0.0"
+}</layout><macroponent_dependencies/><name>AW Inbox Empty</name><output_prop_mapping/><props>[ ]</props><required_translations>[ ]</required_translations><root_component/><root_component_config>{ }</root_component_config><root_component_definition/><schema_version>1.0.0</schema_version><state_properties>[ ]</state_properties><sys_class_name>sys_ux_macroponent</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-13 08:01:06</sys_created_on><sys_id>889076a347ce6d9063853d8a436d4316</sys_id><sys_mod_count>3</sys_mod_count><sys_name>AW Inbox Empty</sys_name><sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package><sys_policy/><sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope><sys_update_name>sys_ux_macroponent_889076a347ce6d9063853d8a436d4316</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-13 08:01:08</sys_updated_on></sys_ux_macroponent><sys_translated_text action="delete_multiple" query="documentkey=889076a347ce6d9063853d8a436d4316"/></record_update>]]></payload>
+        <payload_hash>-1571485808</payload_hash>
+        <record_name>AW Inbox Empty</record_name>
+        <reverted_from/>
+        <source>4d23b5414702259063853d8a436d4327</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-13 08:01:08</sys_created_on>
+        <sys_id>2c903ea347ce6d9063853d8a436d4327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18779a1ef5f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-13 08:01:08</sys_updated_on>
+        <type>UX Macroponent Definition</type>
+        <update_guid>24903ea382ce6d9022a00487323ccd27</update_guid>
+        <update_guid_history>24903ea382ce6d9022a00487323ccd27:-1571485808,20903ea3a5ce6d90bd035f2008179303:773032780,509076a350ce6d90b98ccd4f3e3ffa1b:1718315232,149076a305ce6d9072ba87b060d88f18:-1615385279</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-14 04:59:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_macroponent">sys_ux_macroponent</sys_db_object>
+        <sys_id>1bbb451ab7894456830cb5abc9b3f3c4</sys_id>
+        <sys_metadata>889076a347ce6d9063853d8a436d4316</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AW Inbox Empty</sys_name>
+        <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+        <sys_scope_delete display_value="">33307ce11c114b4283348f7e9342d764</sys_scope_delete>
+        <sys_update_name>sys_ux_macroponent_889076a347ce6d9063853d8a436d4316</sys_update_name>
+        <sys_update_version display_value="sys_ux_macroponent_889076a347ce6d9063853d8a436d4316">2c903ea347ce6d9063853d8a436d4327</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-14 04:59:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

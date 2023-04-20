@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sc_cat_item" version="2" view="Workspace-x_1007454_agent_0-1">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>item_option_new.cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>e966e111478e259063853d8a436d43ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>io_set_item.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a166e111478e259063853d8a436d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>catalog_ui_policy.catalog_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a566e111478e259063853d8a436d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>catalog_script_client.cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a966e111478e259063853d8a436d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>sc_cat_item_user_criteria_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>ad66e111478e259063853d8a436d43c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>sc_cat_item_user_criteria_no_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a166e111478e259063853d8a436d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>sc_cat_item_location_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a566e111478e259063853d8a436d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>sc_cat_item_company_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a966e111478e259063853d8a436d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>sc_cat_item_dept_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>ad66e111478e259063853d8a436d43c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>sc_cat_item_group_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a166e111478e259063853d8a436d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>10</position>
+            <related_list>sc_cat_item_user_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a566e111478e259063853d8a436d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>11</position>
+            <related_list>sc_cat_item_location_no_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a966e111478e259063853d8a436d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>12</position>
+            <related_list>sc_cat_item_company_no_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>ad66e111478e259063853d8a436d43c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>13</position>
+            <related_list>sc_cat_item_dept_no_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a166e111478e259063853d8a436d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>14</position>
+            <related_list>sc_cat_item_group_no_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a566e111478e259063853d8a436d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>15</position>
+            <related_list>sc_cat_item_user_no_mtom.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a966e111478e259063853d8a436d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>16</position>
+            <related_list>sc_cat_item_category.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>ad66e111478e259063853d8a436d43c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>17</position>
+            <related_list>sc_cat_item_catalog.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a166e111478e259063853d8a436d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>18</position>
+            <related_list>catalog_dl_definition.catalog_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a566e111478e259063853d8a436d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>19</position>
+            <related_list>sc_2_kb.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a966e111478e259063853d8a436d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>20</position>
+            <related_list>sc_2_sc.sc_cat_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>ad66e111478e259063853d8a436d43c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>21</position>
+            <related_list>REL:285ba9da44312010f877dc313e5b811d</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a166e111478e259063853d8a436d43ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Catalog Item - Workspace-x 1007454 agent 0-1" name="sc_cat_item" related_list="NULL" sys_domain="global" view="33566111b48e2590be0b6a1afe0458c8">e166e111478e259063853d8a436d43aa</list_id>
+            <order_by/>
+            <position>22</position>
+            <related_list>m2m_connected_content.catalog_item</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_id>a566e111478e259063853d8a436d43ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Catalog Item - Workspace-x 1007454 agent 0-1</calculated_name>
+            <filter/>
+            <name>sc_cat_item</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-06 02:50:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e166e111478e259063853d8a436d43aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Catalog Item - Workspace-x 1007454 agent 0-1</sys_name>
+            <sys_package display_value="Agent_WorkSpace" source="x_1007454_agent_0">c923b5414702259063853d8a436d4325</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Agent_WorkSpace">c923b5414702259063853d8a436d4325</sys_scope>
+            <sys_update_name>sys_ui_related_sc_cat_item_Workspace-x_1007454_agent_0-1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-06 02:50:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace-x 1007454 agent 0-1" name="Workspace-x_1007454_agent_0-1">33566111b48e2590be0b6a1afe0458c8</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
